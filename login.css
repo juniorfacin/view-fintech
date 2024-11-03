@@ -1,6 +1,17 @@
 html,
 body {
     height: 100%;
+    margin: 0;
+}
+
+main,
+span {
+    color: #5F6673;
+}
+
+.img-login {
+    width: 80%;
+    height: auto;
 }
 
 .form-container {
@@ -8,6 +19,7 @@ body {
     padding: 1rem;
 }
 
-.img-login {
-    color: 24C456;
+.social-icons {
+    font-size: 1.5rem;
+    color: #5F6673;
 }
